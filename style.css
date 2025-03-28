@@ -1,0 +1,47 @@
+body{
+
+	background:linear-gradient(lightskyblue,gold,greenyellow);
+	
+	text-align: left;
+	font-size: 28px;
+	background-attachment: fixed;
+}
+
+h1{
+	text-align: left;
+}
+#head{
+	text-align: center;
+	border-block: ;
+	font-family: verdana;
+	color: darkred;
+	font-weight: bolder;
+	font-size: 100px;
+	border-style: inset;
+	border-width: 20px;
+	border-color: goldenrod;
+	border-top-style: double;
+
+
+}
+#P1{
+	
+	border-style: unset;
+	color:blue ;
+}
+#P2{
+	border-style: inset;
+	border-bottom-color: green;
+	text-align:left;
+}
+#C1{
+	border-style: dashed;
+	border-top-style:initial;
+	border-bottom-color: red;
+	color:blue ;
+}
+#C2{
+	border-style: dashed;
+	border-top-style:initial;
+	border-bottom-color: red;
+}
